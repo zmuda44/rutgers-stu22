@@ -14,3 +14,8 @@ then i noticed that it started with master instead of main but dondrey told us a
 i think this was formed when i did git init
 
 i tried git pull origin main and it didn't work
+
+
+
+nevermind, i figured it out.   i had cloned it into my local folder but it started a directory called rutgers-stu22 and i didnt realize it.
+i saw the readme and assumed it was this readme from this github repo because i never create readmes on my computer but it was actually the rutgers readme i was looking at
