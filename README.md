@@ -7,3 +7,10 @@ but i couldn't do git status.  i had to do git init.
 
 
 not sure why this is becuase i would think that git clone would take that need to do git init away
+
+
+then i noticed that it started with master instead of main but dondrey told us about that
+
+i think this was formed when i did git init
+
+i tried git pull origin main and it didn't work
